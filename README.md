@@ -62,5 +62,5 @@
 ---
 # Submission Required
 - **GitHub Repository Link:** [Click Me](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_Cat_Photo_App)
-- **README.md File Link:** [Click Here](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_Cat_Photo_App/new/master?readme=1)
+- **README.md File Link:** [Click Here](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_Cat_Photo_App/blob/master/README.md)
 - **Hosted Link:** [Tap ON](https://abhishek-sharma-007.github.io/Geekster_Assignment_Cat_Photo_App/)
